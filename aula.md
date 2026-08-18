@@ -12,4 +12,9 @@
 
 ## git add . (adiciona todos os arquivos)
 
-## 
+## git merge "branch
+
+## git switch main
+
+## git push origin main
+
