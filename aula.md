@@ -2,19 +2,23 @@
 
 # Comandos do git
 
-## git status (vê o status)
-## git add (adiciona o arquivo)
-## git commit -m "nome aleatorio" (commita o arquivo)
-## git push (sobe pra nuvem)
-## git log ( fechar "git log"= "Q", pular pro proximo log "Enter")
+git status (vê o status)
 
-## git switch -c (cria uma branch/fork, só switch troca de branch)
+git add (adiciona o arquivo)
 
-## git add . (adiciona todos os arquivos)
+git commit -m "nome aleatorio" (commita o arquivo)
 
-## git merge "branch
+git push (sobe pra nuvem)
 
-## git switch main
+git log ( fechar "git log"= "Q", pular pro proximo log "Enter")
 
-## git push origin main
+git switch -c (cria uma branch/fork, só switch troca de branch)
+
+git add . (adiciona todos os arquivos)
+
+git merge "branch
+
+git switch main
+
+git push origin main
 
