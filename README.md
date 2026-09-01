@@ -3,7 +3,6 @@
 ## Repositório de testes da faculdade
 
 # Formatação de texto
-`#Titulo`
 
 `**Negrito**`
 
@@ -38,14 +37,25 @@
    1. sub item
 
 ## Checklists
+```
+- [x] Tarefa 1
+- [ ] Tarefa 2
+- [x] Tarefa 3
+```
 
 - [x] Tarefa 1
 - [ ] Tarefa 2
 - [x] Tarefa 3
 
 ## Links
-
+```
 [Visite o Github](https://github.com/Borulex/Faculdade)
+```
+[Visite o Github](https://github.com/Borulex/Faculdade)
+
+```
+[abra outro arquivo do projeto](aula.md)
+```
 
 [abra outro arquivo do projeto](aula.md)
 
@@ -58,3 +68,39 @@ O comando `git add .` adiciona todos os arquivos modificados à *staging area*
 O comando `git commit -m "mensagem do comentário" registra as alterações com uma mensagem`
 
 O comando `git push` envia os arquivos para nuvem
+
+``` 
+git status
+git add .
+git commit -m "mensagem do comentário"
+git push 
+```
+
+
+## Citações
+
+` > Uma boa documentação explica o objetivo, o uso e as limitações do projeto. ` 
+
+> Uma boa documentação explica o objetivo, o uso e as limitações do projeto
+
+## Tabelas
+```
+| Tecnologia | Finalidade |
+| --- | --- |
+| Git | Controle de versões |
+| Github | Hospedagem e colaboração |
+| Markdown | Documentação |
+```
+| Tecnologia | Finalidade |
+| --- | --- |
+| Git | Controle de versões |
+| Github | Hospedagem e colaboração |
+| Markdown | Documentação |
+
+| Esquerda | Centro | Direita |
+| :-- | :--: | --:|
+| Texto | Texto | Texto |
+
+## Imagens
+![Ichigo](imagens\images.jpg)
+![Rei](imagens/rei-ayanami-v0-ailcxr4xrysc1.png)
