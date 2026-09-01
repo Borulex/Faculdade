@@ -102,5 +102,5 @@ git push
 | Texto | Texto | Texto |
 
 ## Imagens
-![Ichigo](imagens\images.jpg)
+![Ichigo](imagens\images.png)
 ![Rei](imagens/rei-ayanami-v0-ailcxr4xrysc1.png)
